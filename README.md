@@ -9,6 +9,10 @@ University of Tartu · Hochschule der Bayerischen Wirtschaft
 > Funded by the European Union under Grant Agreement No. 101087529.
 
 ---
+## The Conceptual Model
+
+This file contains the UML class diagram, including all attributes of the conceptual model, and an instantiation example of two requirements.
+**[View EU AI Act Trustworthiness Model](https://lucid.app/lucidchart/1336376e-c24b-4537-a8a8-6bcd71fcf566/edit?viewport_loc=-1239%2C-1434%2C6789%2C3573%2C0_0&invitationId=inv_c2146e98-b9df-45e6-9b42-d7959c8af52d)**
 
 ## Instantiation Example
 
