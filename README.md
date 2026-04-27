@@ -12,7 +12,7 @@ University of Tartu · Hochschule der Bayerischen Wirtschaft
 
 ## Instantiation Example
 
-**[Download: Instantiation Example.xlsx](./Instantiation%20Example.xlsx)**
+**[Download: Instantiation Example.xlsx]((https://docs.google.com/spreadsheets/d/1MbbeduWqMhBWYfHpvD2xtPMUjGuaaXux/edit?usp=sharing&ouid=106764535231219353686&rtpof=true&sd=true))**
 
 This file demonstrates how the conceptual model is applied to two real high-risk AI systems under the EU AI Act. It contains two sheets:
 
