@@ -6,7 +6,7 @@ Replication materials for the paper:
 Ijeoma Faustina Ekeh, Tolulope Ruth Ogundele, Joy Mugambi, Raimundas Matulevičius
 University of Tartu · Hochschule der Bayerischen Wirtschaft
 
-> Funded by the European Union under Grant Agreement No. 101087529.
+> Funded by the European Union under Grant Agreement No. 101087529 and 101217315.
 
 ---
 ## The Conceptual Model
