@@ -87,4 +87,4 @@ You are free to share and adapt the materials with appropriate credit.
 
 ## Acknowledgements
 
-This research was funded by the European Union under Grant Agreement No. 101087529. Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the European Research Executive Agency.
+This research was funded by the European Union under Grant Agreement No. 101087529 and 101217315. Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the European Research Executive Agency.
